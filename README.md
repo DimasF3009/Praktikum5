@@ -27,3 +27,21 @@ untuk menampilkan elemment terakhir menggunakan print(list[4]) dimana "[4]" adal
 
 ![pic8](https://user-images.githubusercontent.com/115356128/202803903-99bd8885-7f79-47eb-9091-80536f0e84a5.png)
 
+
+2. Ubah elemen list
+## - Ubah elemen ke 4 dengan nilai lainnya
+untuk mengubah element ke 4 didalam list, menggunakan namavariable [3]= "element baru" artinya kita ingin mengubah index 3 dengan nilai yang baru.
+![pic9](https://user-images.githubusercontent.com/115356128/202806035-e9939d66-cc17-41fa-bc97-6a2ce520f207.png)
+## output
+
+![pic10](https://user-images.githubusercontent.com/115356128/202806230-c37d51b8-1ff8-4854-95e0-d5138d71e119.png)
+
+## - Ubah elemen ke 4 sampai dengan elemen terakhir
+untuk mengubah element ke 4 sampai dengan terakhir, menggunakan namavariable [3:]= "element1, element2" artinya kita ingin mengubah index 3 sampai terakhir dengan nilai yang baru.
+![pic11](https://user-images.githubusercontent.com/115356128/202807125-726aee88-4c90-476d-9a16-9395f1f1ddca.png)
+## output
+
+![pic12](https://user-images.githubusercontent.com/115356128/202807169-48766a38-e1f9-4b79-be70-60994bfd5b02.png)
+
+
+
