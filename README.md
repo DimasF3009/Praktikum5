@@ -67,3 +67,18 @@ Untuk menggabungkan list A dan B dapat menggunakan operator +.
 ![pic20](https://user-images.githubusercontent.com/115356128/202812256-e4b7d6ea-c13d-4722-9838-45d6e468b909.png)
 
 
+# Tugas Praktikum
+## Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian sebagai berikut:
+## - Progam meminta memasukkan data sebanyak-banyaknya (gunakan perulangan)
+## - Tampilkan pertanyaan untuk menambah data (y/t?), apabila jawaban t (Tidak), maka program akan menampilkan daftar datanya. 
+## - Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%, uts: 35%, uas: 35%)
+## - Buat flowchart dan penjelasan programnya pada README.md.
+## - Commit dan push repository ke github
+
+## Program
+![pic21](https://user-images.githubusercontent.com/115356128/202817002-8a971e05-e4ba-47a0-8470-b13dc859b4b8.png)
+## output
+![pic22](https://user-images.githubusercontent.com/115356128/202818530-52455b14-be0a-45de-b768-5f237f86e1b3.png)
+
+
+
