@@ -80,5 +80,8 @@ Untuk menggabungkan list A dan B dapat menggunakan operator +.
 ## output
 ![pic22](https://user-images.githubusercontent.com/115356128/202818530-52455b14-be0a-45de-b768-5f237f86e1b3.png)
 
+## Flowchart
+![pic23](https://user-images.githubusercontent.com/115356128/202830484-1e34100a-46e5-4022-a334-c5a67e305733.png)
+
 
 
